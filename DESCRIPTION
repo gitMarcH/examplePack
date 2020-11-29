@@ -1,0 +1,17 @@
+Package: examplePack
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Marc",
+           family = "Henrion",
+           role = c("aut", "cre"),
+           email = "mhenrion@mlw.mw",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: This is an example R package built as a practical exercise for Session 7 of the MLW / COM Statistics and R course.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0
+Depends: 
+    tidyverse
