@@ -1,7 +1,7 @@
-#' @title Does the analysis for the exercise for Session 7 from the MLW / COM Statistics and R workshop.
+#' @title Does the analysis for the exercise for Session 6 from the MLW / KUHeS Statistics and R workshop.
 #'
 #' @description
-#' This is an example package for Session 7 of the MLW / COM Statistics and R workshop. This function performs either a t-test or a linear regression on a simulated, internally stored dataset, dat.
+#' This is an example package for Session 6 of the MLW / KUHeS Statistics and R workshop. This function performs either a t-test or a linear regression on a simulated, internally stored dataset, dat.
 #'
 #' @param analysis A character string indicating which analysis to do. Needs to be one of "t.test" (for a t-test), "linReg" (for a linear regression).
 #'

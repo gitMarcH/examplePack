@@ -1,4 +1,4 @@
-#' A simulated dataset for Session 7 of the MLW / COM Statistics and R workshop.
+#' A simulated dataset for Session 6 of the MLW / KUHeS Statistics and R workshop.
 #'
 #' @format A data frame with 100 rows and 4 variables:
 #' \describe{
