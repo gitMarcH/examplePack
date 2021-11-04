@@ -2,7 +2,7 @@
 % Please edit documentation in R/functions.R
 \name{doAnalysis}
 \alias{doAnalysis}
-\title{Does the analysis for the exercise for Session 7 from the MLW / COM Statistics and R workshop.}
+\title{Does the analysis for the exercise for Session 6 from the MLW / KUHeS Statistics and R workshop.}
 \usage{
 doAnalysis(analysis)
 }
@@ -13,7 +13,7 @@ doAnalysis(analysis)
 An object of class \code{htest} or \code{glm} depending whether a t-test or a linear regression was performed
 }
 \description{
-This is an example package for Session 7 of the MLW / COM Statistics and R workshop. This function performs either a t-test or a linear regression on a simulated, internally stored dataset, dat.
+This is an example package for Session 6 of the MLW / KUHeS Statistics and R workshop. This function performs either a t-test or a linear regression on a simulated, internally stored dataset, dat.
 }
 \examples{
 ## Example 1 - t-test
