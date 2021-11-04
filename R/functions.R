@@ -31,10 +31,10 @@ doAnalysis<-function(analysis){
 }
 
 
-#' @title Does the plot for the exercise for Session 7 from the MLW / COM Statistics and R workshop.
+#' @title Does the plot for the exercise for Session 6 from the MLW / KUHeS Statistics and R workshop.
 #'
 #' @description
-#' This is an example package for Session 7 of the MLW / COM Statistics and R workshop. This function plots either a box & jitter plot or a scatter plot with a linear regression model.
+#' This is an example package for Session 6 of the MLW / KUHeS Statistics and R workshop. This function plots either a box & jitter plot or a scatter plot with a linear regression model.
 #'
 #' @param analysisResult The output from the function \code{doAnalysis}.
 #'

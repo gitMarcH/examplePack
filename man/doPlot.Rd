@@ -2,7 +2,7 @@
 % Please edit documentation in R/functions.R
 \name{doPlot}
 \alias{doPlot}
-\title{Does the plot for the exercise for Session 7 from the MLW / COM Statistics and R workshop.}
+\title{Does the plot for the exercise for Session 6 from the MLW / KUHeS Statistics and R workshop.}
 \usage{
 doPlot(analysisResult)
 }
@@ -13,7 +13,7 @@ doPlot(analysisResult)
 Produces a plot, but returns no other output.
 }
 \description{
-This is an example package for Session 7 of the MLW / COM Statistics and R workshop. This function plots either a box & jitter plot or a scatter plot with a linear regression model.
+This is an example package for Session 6 of the MLW / KUHeS Statistics and R workshop. This function plots either a box & jitter plot or a scatter plot with a linear regression model.
 }
 \examples{
 ## Example
